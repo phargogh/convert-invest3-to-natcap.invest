@@ -1,0 +1,27 @@
+dbfpy
+matplotlib
+osgeo
+cython
+bs4
+h5py
+nose
+numpy
+poster
+psycopg2
+pylab
+scipy
+shapely
+grass
+pyamg
+tables
+
+
+# some files and functionality need these
+PyQt4
+qgis
+py2exe
+sphinx
+sextante
+sphinx_rtd_theme
+unicodecsv
+xlrd
